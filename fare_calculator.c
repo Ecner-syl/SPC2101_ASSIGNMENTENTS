@@ -1,7 +1,7 @@
 /*
 NAME:DENNIS KARIUKI NGANGA
 REG NO:CT101/G/26473/25
-DESCRIPTION:
+DESCRIPTION: a program that calcualtes fare 
 */
 // function definition 
 float total_fare(float distance)
@@ -21,5 +21,6 @@ void main()
   printf("Total fare = Ksh %.2f\n",fare); //prints the results
 return 0;
 }
+
 
 
